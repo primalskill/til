@@ -1,6 +1,10 @@
 # Today I Learned
 
 
+### Go
+
+- [Compile for a Target OS and architecture](go/compile-specific-arch.md)
+
 ### Linux
 
 - [Directory Structure](linux/directory-structure.md)
