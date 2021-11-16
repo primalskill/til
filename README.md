@@ -7,7 +7,9 @@
 
 ### Linux
 
+- [Available Disk Space](linux/avail-disk-space.md)
 - [Directory Structure](linux/directory-structure.md)
+
 
 ### Shell
 
