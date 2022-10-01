@@ -4,6 +4,7 @@
 ### Go
 
 - [Compile for a Target OS and architecture](go/compile-specific-arch.md)
+- [Update packages](go/update-packages.md)
 
 ### Linux
 
@@ -17,4 +18,4 @@
 
 ### SSL
 
-- [Create Self-Signed Development Certificates](ssl/sels-signed-certs.md)
+- [Create Self-Signed Development Certificates](ssl/self-signed-certs.md)
