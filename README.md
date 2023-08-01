@@ -38,6 +38,7 @@ Organized alphabetically.
   <summary>Snippets</summary>
 
 - [Compile for a Target OS and architecture](go/compile-specific-arch.md)
+- [Database NULL Value Types](go/database-null-value-types.md)
 - [Update packages](go/update-packages.md)
   
 </details>
