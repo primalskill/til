@@ -46,6 +46,7 @@ Organized alphabetically.
 <details open>
   <summary>Snippets</summary>
 
+- [Context as First Argument in Functions](go/ctx-first.md)
 - [Compile for a Target OS and architecture](go/compile-specific-arch.md)
 - [Database NULL Value Types](go/database-null-value-types.md)
 - [Update packages](go/update-packages.md)
