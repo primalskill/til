@@ -49,6 +49,7 @@ Organized alphabetically.
 - [Context as First Argument in Functions](go/ctx-first.md)
 - [Compile for a Target OS and architecture](go/compile-specific-arch.md)
 - [Database NULL Value Types](go/database-null-value-types.md)
+- [Errors as the Last Variable Returned](go/err-last.md)
 - [Update packages](go/update-packages.md)
   
 </details>
