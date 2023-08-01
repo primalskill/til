@@ -60,6 +60,7 @@ Organized alphabetically.
 
 - [Available Disk Space](linux/avail-disk-space.md)
 - [Directory Structure](linux/directory-structure.md)
+- [Secure Copy Files](linux/secure-copy.md)
   
 </details>
 
