@@ -15,8 +15,17 @@ Organized alphabetically.
 ### Go
 
 <details open>
+  <summary>Books</summary>
+
+- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) by Katherine Cox-Buday
+- [Go with the Domain](https://threedots.tech/go-with-the-domain/) by Robert Laszczak & Miłosz Smółka
+  
+</details>
+
+<details open>
   <summary>Blogs</summary>
 
+- [Alex Edwards](https://www.alexedwards.net/blog)
 - [Ardan Labs Blog](https://www.ardanlabs.com/blog/)
 - [Bitfield Consulting Blog](https://bitfieldconsulting.com/golang)
 - [Dave Cheney](https://dave.cheney.net/)
