@@ -10,9 +10,8 @@ Organized alphabetically.
 
 </div>
 
----
 
-### Git
+## Git
 
 <details open>
   <summary>Snippets</summary>
@@ -21,7 +20,8 @@ Organized alphabetically.
   
 </details>
 
-### Go
+
+## Go
 
 <details open>
   <summary>Books</summary>
@@ -52,7 +52,8 @@ Organized alphabetically.
   
 </details>
 
-### Linux
+
+## Linux
 
 <details open>
   <summary>Snippets</summary>
@@ -62,7 +63,18 @@ Organized alphabetically.
   
 </details>
 
-### Shell
+
+## PostgreSQL
+
+<details open>
+  <summary>Snippets</summary>
+
+- [Backup & Restore in CLI](postgresql/backup-restore.md)
+  
+</details>
+
+
+## Shell
 
 <details open>
   <summary>Snippets</summary>
@@ -72,7 +84,7 @@ Organized alphabetically.
 </details>
 
 
-### SSL
+## SSL
 
 <details open>
   <summary>Snippets</summary>
@@ -80,7 +92,6 @@ Organized alphabetically.
 - [Create Self-Signed Development Certificates](ssl/self-signed-certs.md)
   
 </details>
-
 
 ---
 
