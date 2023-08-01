@@ -1,8 +1,14 @@
+<div align="center">
+
+<img src="https://github.com/primalskill/til/assets/489775/96abd783-d402-4044-ab4b-26c4691ebcdc" alt="Primal Skill Logo" width="64" height="64" />
+
 # Today I Learned (TIL)
 
 This public repository contains small snippets of data and a constant stream of information that we learn every day at Primal Skill.
 
 Organized alphabetically.
+
+</div>
 
 ---
 
