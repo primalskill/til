@@ -54,6 +54,12 @@ Organized alphabetically.
   
 </details>
 
+<details open>
+  <summary>Resources</summary>
+
+- [Gotchas in Go](https://github.com/golang-leipzig/gotchas)
+  
+</details>
 
 ## Linux
 
