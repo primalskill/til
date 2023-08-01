@@ -12,6 +12,15 @@ Organized alphabetically.
 
 ---
 
+### Git
+
+<details open>
+  <summary>Snippets</summary>
+
+- [Hard Reset a Single File](git/hard-reset-single-file.md)
+  
+</details>
+
 ### Go
 
 <details open>
