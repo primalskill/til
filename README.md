@@ -1,5 +1,10 @@
-# Today I Learned
+# Today I Learned (TIL)
 
+This public repository contains small snippets of data and a constant stream of information that we learn every day at Primal Skill.
+
+Organized alphabetically.
+
+---
 
 ### Go
 
@@ -19,3 +24,11 @@
 ### SSL
 
 - [Create Self-Signed Development Certificates](ssl/self-signed-certs.md)
+
+---
+
+<div align="right">
+
+For the ❤️ of open source.
+
+</div>
