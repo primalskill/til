@@ -72,6 +72,15 @@ Organized alphabetically.
   
 </details>
 
+## macOS
+
+<details open>
+  <summary>Snippets</summary>
+
+- [Show Hidden Dot Files and Directories](macos/show-hidden-dotfiles.md)
+  
+</details>
+
 
 ## PostgreSQL
 
