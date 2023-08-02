@@ -13,6 +13,13 @@ Organized alphabetically.
 ## CSS
 
 <details open>
+  <summary>Resources</summary>
+
+- [Modern CSS Solutions](https://moderncss.dev/)
+  
+</details>
+
+<details open>
   <summary>Snippets</summary>
 
 - [Aspect Ratio](css/aspect-ratio.md)
@@ -20,7 +27,6 @@ Organized alphabetically.
 - [Scroll Snap to Elements](css/scroll-snap.md)
   
 </details>
-
 
 ## Git
 
