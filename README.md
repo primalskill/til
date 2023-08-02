@@ -72,6 +72,16 @@ Organized alphabetically.
   
 </details>
 
+## JavaScript
+
+<details open>
+  <summary>Snippets</summary>
+
+- [Generate Random Strings Natively](javascript/random-strings.md)
+- [Generate UUIDs Natively](javascript/uuid.md)
+  
+</details>
+
 ## Linux
 
 <details open>
