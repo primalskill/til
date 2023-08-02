@@ -99,6 +99,7 @@ Organized alphabetically.
 
 - [Available Disk Space](linux/avail-disk-space.md)
 - [Directory Structure](linux/directory-structure.md)
+- [Journalctl Show One Unit](linux/journalctl-one-unit.md)
 - [Secure Copy Files](linux/secure-copy.md)
   
 </details>
