@@ -24,6 +24,7 @@ Organized alphabetically.
 
 - [Aspect Ratio](css/aspect-ratio.md)
 - [HEX Colors With Opacity](css/hex-values-with-opacity.md)
+- [Flexbox Alignment Trick](css/flexbox-alignment-trick.md)
 - [RGB Values as CSS Variables](css/rgb-css-var.md)
 - [Scroll Snap to Elements](css/scroll-snap.md)
 - [System Fonts](css/system-fonts.md)
