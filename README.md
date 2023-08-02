@@ -10,6 +10,15 @@ Organized alphabetically.
 
 </div>
 
+## CSS
+
+<details open>
+  <summary>Snippets</summary>
+
+- [Aspect Ratio](css/aspect-ratio.md)
+  
+</details>
+
 
 ## Git
 
