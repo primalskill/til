@@ -67,6 +67,7 @@ Organized alphabetically.
   <summary>Resources</summary>
 
 - [Gotchas in Go](https://github.com/golang-leipzig/gotchas)
+- [Todd McLeod - Learn to Code YouTube Channel](https://www.youtube.com/@toddmcleod-learn-to-code/videos)
   
 </details>
 
