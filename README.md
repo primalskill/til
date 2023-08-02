@@ -44,6 +44,13 @@ Organized alphabetically.
 </details>
 
 <details open>
+  <summary>Resources</summary>
+
+- [Gotchas in Go](https://github.com/golang-leipzig/gotchas)
+  
+</details>
+
+<details open>
   <summary>Snippets</summary>
 
 - [Context as First Argument in Functions](go/ctx-first.md)
@@ -51,13 +58,6 @@ Organized alphabetically.
 - [Database NULL Value Types](go/database-null-value-types.md)
 - [Errors as the Last Variable Returned](go/err-last.md)
 - [Update packages](go/update-packages.md)
-  
-</details>
-
-<details open>
-  <summary>Resources</summary>
-
-- [Gotchas in Go](https://github.com/golang-leipzig/gotchas)
   
 </details>
 
@@ -85,11 +85,19 @@ Organized alphabetically.
 ## PostgreSQL
 
 <details open>
+  <summary>Resources</summary>
+
+- [Database Indexing Strategies](https://blog.bytebytego.com/p/database-indexing-strategies)
+  
+</details>
+
+<details open>
   <summary>Snippets</summary>
 
 - [Backup & Restore in CLI](postgresql/backup-restore.md)
   
 </details>
+
 
 
 ## Shell
