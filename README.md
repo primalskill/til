@@ -86,6 +86,7 @@ Organized alphabetically.
 <details open>
   <summary>Snippets</summary>
 
+- [Alternative Copy-Paste Shortcut](javascript/alternative-copy-paste-shortcut.md)
 - [Generate Random Strings Natively](javascript/random-strings.md)
 - [Generate UUIDs Natively](javascript/uuid.md)
 - [Resolve All Promises Regardless of Status](javascript/resolve-all-promises.md)
