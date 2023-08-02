@@ -97,6 +97,7 @@ Organized alphabetically.
 <details open>
   <summary>Resources</summary>
 
+- [Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
 - [Database Indexing Strategies](https://blog.bytebytego.com/p/database-indexing-strategies)
 - [Vectors Are The New JSON in PostgreSQL](https://jkatz05.com/post/postgres/vectors-json-postgresql/)
   
