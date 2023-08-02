@@ -16,6 +16,7 @@ Organized alphabetically.
   <summary>Snippets</summary>
 
 - [Aspect Ratio](css/aspect-ratio.md)
+- [HEX Colors With Opacity](css/hex-values-with-opacity.md)
   
 </details>
 
