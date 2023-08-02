@@ -1,5 +1,7 @@
 # Linux Permissions
 
+Executing `ls -la` will show the following info:
+
 ![image](https://github.com/primalskill/til/assets/489775/f3aa9095-ff65-4c37-ae76-55b1a671557d)
 
 ## Changing Owner
