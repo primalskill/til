@@ -85,6 +85,7 @@ Organized alphabetically.
 
 - [Generate Random Strings Natively](javascript/random-strings.md)
 - [Generate UUIDs Natively](javascript/uuid.md)
+- [Resolve All Promises Regardless of Status](javascript/resolve-all-promises.md)
   
 </details>
 
