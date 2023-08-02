@@ -55,3 +55,9 @@ Add the `-R` after chmod.
 ```shell
 chmod -R u+r path/to/folder
 ```
+
+---
+
+#### Refs
+
+- Article: https://primalskill.blog/linux-file-permissions-for-web-developers
