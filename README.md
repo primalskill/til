@@ -17,6 +17,7 @@ Organized alphabetically.
 
 - [Aspect Ratio](css/aspect-ratio.md)
 - [HEX Colors With Opacity](css/hex-values-with-opacity.md)
+- [Scroll Snap to Elements](css/scroll-snap.md)
   
 </details>
 
