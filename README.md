@@ -136,6 +136,15 @@ Organized alphabetically.
 </details>
 
 
+## React
+
+<details open>
+  <summary>Snippets</summary>
+
+- [Setting a New Value with useState](react/use-state-setter.md)
+  
+</details>
+
 
 ## Shell
 
