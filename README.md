@@ -31,6 +31,17 @@ Organized alphabetically.
   
 </details>
 
+## Flutter
+
+<details open>
+  <summary>Resources</summary>
+
+- [Flutter Roadmap](https://github.com/olexale/flutter_roadmap) - GitHub repo
+  
+</details>
+
+
+
 ## Git
 
 <details open>
