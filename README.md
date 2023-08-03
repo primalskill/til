@@ -86,6 +86,14 @@ Organized alphabetically.
 ## JavaScript
 
 <details open>
+  <summary>Resources</summary>
+
+- [You Don't Know JS Yet 2nd Edition](https://github.com/getify/You-Dont-Know-JS) - Milestone learning resource (free)
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+  
+</details>
+
+<details open>
   <summary>Snippets</summary>
 
 - [Alternative Copy-Paste Shortcut](javascript/alternative-copy-paste-shortcut.md)
