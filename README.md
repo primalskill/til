@@ -141,6 +141,13 @@ Organized alphabetically.
 ## React
 
 <details open>
+  <summary>Resources</summary>
+
+- [Learn React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - YouTube playlist
+  
+</details>
+
+<details open>
   <summary>Snippets</summary>
 
 - [Setting a New Value with useState](react/use-state-setter.md)
