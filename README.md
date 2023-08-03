@@ -100,6 +100,7 @@ Organized alphabetically.
   <summary>Snippets</summary>
 
 - [Available Disk Space](linux/avail-disk-space.md)
+- [Copy environment when switching user](linux/copy-environment-when-switching-user.md)
 - [Directory Structure](linux/directory-structure.md)
 - [Journalctl Show One Unit](linux/journalctl-one-unit.md)
 - [Permissions Explained](linux/permissions.md)
@@ -144,17 +145,6 @@ Organized alphabetically.
 - [Setting a New Value with useState](react/use-state-setter.md)
   
 </details>
-
-
-## Shell
-
-<details open>
-  <summary>Snippets</summary>
-
-- [Copy environment when switching user](shell/copy-environment-when-switching-user.md)
-  
-</details>
-
 
 ## SSL
 
