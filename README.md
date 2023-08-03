@@ -67,6 +67,7 @@ Organized alphabetically.
   <summary>Resources</summary>
 
 - [Gotchas in Go](https://github.com/golang-leipzig/gotchas)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Free Course
 - [Todd McLeod - Learn to Code](https://www.youtube.com/@toddmcleod-learn-to-code/videos) - YouTube
   
 </details>
