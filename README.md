@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 <img src="https://github.com/primalskill/til/assets/489775/96abd783-d402-4044-ab4b-26c4691ebcdc" alt="Primal Skill Logo" width="64" height="64" />
@@ -120,6 +111,7 @@ Organized alphabetically.
 - [Compile for a Target OS and architecture](go/compile-specific-arch.md)
 - [Database NULL Value Types](go/database-null-value-types.md)
 - [Errors as the Last Variable Returned](go/err-last.md)
+- [Generate Random Numbers](go/random-number-generator.md)
 - [Update packages](go/update-packages.md)
   
 </details>
