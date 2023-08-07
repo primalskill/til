@@ -175,6 +175,7 @@ Organized alphabetically.
 <details open>
   <summary>Snippets</summary>
 
+- [Replace String in a File](macos/replace-string-file.md)
 - [Show Hidden Dot Files and Directories](macos/show-hidden-dotfiles.md)
   
 </details>
