@@ -200,6 +200,7 @@ Organized alphabetically.
   <summary>Snippets</summary>
 
 - [Backup & Restore in CLI](postgresql/backup-restore.md)
+- [Find the Owner of a Table](postgresql/find-owner-of-table.md)
   
 </details>
 
