@@ -49,6 +49,8 @@ Organized alphabetically.
   <summary>Snippets</summary>
 
 - [View Running Containers](docker/view-running-containers.md)
+- [Open Terminal in Container](docker/open-terminal-in-container.md)
+- [Rebuild Compose Service Image](docker/rebuild-compose-service-image.md)
   
 </details>
 
