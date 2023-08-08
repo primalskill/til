@@ -230,6 +230,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
   <summary>Snippets</summary>
 
 - [Backup & Restore in CLI](postgresql/backup-restore.md)
+- [Enable Logging](postgresql/enable-logging.md)
 - [Find the Owner of a Table](postgresql/find-owner-of-table.md)
   
 </details>
