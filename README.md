@@ -10,6 +10,17 @@ Organized alphabetically.
 
 </div>
 
+
+## _Stream
+
+Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for later. Organized by year and week.
+
+- [2023 Week 32](_stream/2023-w32.md)
+- [2023 Week 33](_stream/2023-w33.md)
+
+---
+
+
 <br />
 
 <img src="https://github.com/primalskill/til/assets/489775/b72daeb6-da6d-4002-8afc-759acf7bd07f" alt="CSS3 Logo" width="64" height="64" align="left" />
