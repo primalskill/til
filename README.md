@@ -159,6 +159,7 @@ Organized alphabetically.
 - [Copy environment when switching user](linux/copy-environment-when-switching-user.md)
 - [Directory Structure](linux/directory-structure.md)
 - [Journalctl Show One Unit](linux/journalctl-one-unit.md)
+- [Lookup DNS](linux/lookup-dns.md)
 - [Permissions Explained](linux/permissions.md)
 - [Replace String in a File](linux/replace-string-in-file.md)
 - [Secure Copy Files](linux/secure-copy.md)
