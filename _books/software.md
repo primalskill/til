@@ -22,4 +22,23 @@ Author: John Ousterhout
 
 </td>
 </tr>
+
+<tr>
+<td>
+<img src="https://github.com/primalskill/til/assets/489775/1b463963-8bf0-49d8-b325-db96cc1250bb" width="300" align="center" />      
+</td>
+<td valign="top">
+  
+### Practical Cryptography for Developers
+
+Author: Svetlin Nakov, PhD
+
+[Author's Page](https://cryptobook.nakov.com/) | [Github](https://github.com/nakov/practical-cryptography-for-developers-book)
+</td>
+</tr>
+
 </table>
+
+
+
+
