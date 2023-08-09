@@ -8,6 +8,23 @@ Organized alphabetically.
 
 
 <table>
+
+
+<tr>
+<td>
+<img src="https://github.com/primalskill/til/assets/489775/6c864e65-6787-4071-b1e6-8b082c35d666" width="300" align="center" />      
+</td>
+<td valign="top">
+  
+### Algorithms
+
+Author: Jeff Erickson
+
+[Author's Page](https://jeffe.cs.illinois.edu/teaching/algorithms/) | [PDF](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) | [Amazon](https://www.amazon.com/gp/product/1792644833) | [Goodreads](https://www.goodreads.com/book/show/20613168-algorithms?ac=1&from_search=true&qid=6GzZTbv9r8&rank=1)
+
+</td>
+</tr>
+
 <tr>
 <td>
 <img src="https://github.com/primalskill/til/assets/489775/e80247ce-a7f1-42c9-90f4-b0e8d4754d02" width="300" align="center" />      
@@ -37,7 +54,23 @@ Author: Svetlin Nakov, PhD
 </td>
 </tr>
 
+<tr>
+<td>
+<img src="https://github.com/primalskill/til/assets/489775/c8cd8587-9a28-4e5c-9123-88958b87f989" width="300" align="center" />      
+</td>
+<td valign="top">
+  
+### The Art of Computer Programming
+
+Author: Donald Knuth
+
+[Amazon](https://www.amazon.com/gp/product/0321751043) | [Goodreads](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1?from_search=true&from_srp=true&qid=9H7rqTQBpy&rank=1)
+</td>
+</tr>
+
+
 </table>
+
 
 
 
