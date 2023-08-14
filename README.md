@@ -140,6 +140,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Database NULL Value Types](go/database-null-value-types.md)
 - [Errors as the Last Variable Returned](go/err-last.md)
 - [Generate Random Numbers](go/random-number-generator.md)
+- [Generics](go/generics.md)
 - [Update packages](go/update-packages.md)
   
 </details>
