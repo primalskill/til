@@ -98,6 +98,21 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 <br />
 
+<img src="https://github.com/primalskill/til/assets/489775/1a5c3992-a9f6-4cc1-ac0d-49e0e45bafdd" alt="General Logo" width="64" height="64" align="left" />
+
+## General
+
+<br />
+
+<details open>
+  <summary>Snippets</summary>
+
+- [Logging](general/logging.md)
+  
+</details>
+
+<br />
+
 <img src="https://github.com/primalskill/til/assets/489775/644172fa-7e02-4eac-96f5-066e23c75561" alt="Go Logo" width="64" height="64" align="left" />
 
 ## Go
