@@ -288,6 +288,22 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
   
 </details>
 
+<br />
+<img src="https://github.com/primalskill/til/assets/489775/a9b8d7ba-1498-46ac-9299-a8686702db07" alt="Visual Studio Code Logo" width="64" height="64" align="left" />
+
+
+## VSCode
+
+<br />
+
+<details open>
+  <summary>Snippets</summary>
+
+- [Shortcuts](vscode/shortcuts.md)
+  
+</details>
+
+
 ---
 
 <div align="right">
