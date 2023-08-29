@@ -44,6 +44,12 @@ If importing into a database owned by another user, don't emit owner statements:
 pg_restore --format=custom --dbname=my_database --no-owner output.sql
 ```
 
+Set it to a different owner than what was dumped:
+
+```shell
+pg_restore --format=custom --dbname=my_database --no-owner --role=my_owner output.sql
+```
+
 Use `psql` to restore plain SQL backup files:
 
 ``` shell
