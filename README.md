@@ -212,6 +212,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Permissions Explained](linux/permissions.md)
 - [Replace String in a File](linux/replace-string-in-file.md)
 - [Secure Copy Files](linux/secure-copy.md)
+- [System Info](linux/system-info.md)
   
 </details>
 
