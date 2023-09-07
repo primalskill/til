@@ -96,6 +96,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 <details open>
   <summary>Snippets</summary>
 
+- [Delete Merged Branches](git/delete-merged-branches.md)
 - [Hard Reset a Single File](git/hard-reset-single-file.md)
 - [Show Merged Branches](git/merged-branches.md)
   
