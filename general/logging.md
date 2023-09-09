@@ -24,7 +24,7 @@ A maximum of 3 logging levels is enough for 99% of projects, but most likely onl
 ### You don't need these log levels
 
 - Warnings are basically INFO logs with a label attached to it.
-- Notice, Fatal, Alert, Critical, etc. are just semantics of either INFO or ERROR.
+- Notice, Fatal, Alert, Critical, etc. are just semantics of either INFO or ERROR where a label would suffice. E.g. INFO alert message alert=true
 
 ## Questions to ask yourself when logging / How to write good logs
 
