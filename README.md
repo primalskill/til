@@ -39,6 +39,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
   <summary>Resources</summary>
 
 - [Modern CSS Solutions](https://moderncss.dev/)
+- [A more modern CSS reset](https://andy-bell.co.uk/a-more-modern-css-reset/?ck_subscriber_id=2125261242)
   
 </details>
 
