@@ -67,9 +67,11 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 <details open>
   <summary>Snippets</summary>
 
-- [View Running Containers](docker/view-running-containers.md)
+- [Cleanup](docker/cleanup.md)
 - [Open Terminal in Container](docker/open-terminal-in-container.md)
 - [Rebuild Compose Service Image](docker/rebuild-compose-service-image.md)
+- [View Running Containers](docker/view-running-containers.md)
+
   
 </details>
 
