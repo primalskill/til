@@ -23,6 +23,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [2023 Week 37](_stream/2023-w37.md)
 - [2023 Week 38](_stream/2023-w38.md)
 - [2023 Week 39](_stream/2023-w39.md)
+- [2023 Week 40](_stream/2023-w40.md)
 
 ---
 
