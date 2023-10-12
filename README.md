@@ -137,6 +137,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 - [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) by Katherine Cox-Buday
 - [Go with the Domain](https://threedots.tech/go-with-the-domain/) by Robert Laszczak & Miłosz Smółka
+- [GO 101](https://go101.org/)
   
 </details>
 
