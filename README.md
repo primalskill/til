@@ -15,16 +15,36 @@ Organized alphabetically.
 
 Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for later. Organized by year and week.
 
+<table border="0">
+<tr>
+  
+<td align="top">
+  
 - [2023 Week 32](_stream/2023-w32.md)
 - [2023 Week 33](_stream/2023-w33.md)
 - [2023 Week 34](_stream/2023-w34.md)
 - [2023 Week 35](_stream/2023-w35.md)
+
+<td>
+
 - [2023 Week 36](_stream/2023-w36.md)
 - [2023 Week 37](_stream/2023-w37.md)
 - [2023 Week 38](_stream/2023-w38.md)
 - [2023 Week 39](_stream/2023-w39.md)
+  
+</td>  
+
+<td align="top">
+
 - [2023 Week 40](_stream/2023-w40.md)
 - [2023 Week 41](_stream/2023-w41.md)
+- [2023 Week 42](_stream/2023-w42.md)  
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
