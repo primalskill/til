@@ -16,7 +16,7 @@ scp myfile.txt server.host:./path/on/server/myfile.txt
 scp server.host:./path/on/server/myfile.txt .
 ```
 
-## Directories
+## Directory
 
 
 ### From local machine to server
