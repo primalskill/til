@@ -9,3 +9,9 @@ git reset --hard <sha of the commit>^
 ```
 
 **NOTE**: Make sure to put the `^` to the end of the sha.
+
+You need to force the update on the `origin` though
+
+```shell
+git push origin -f
+```
