@@ -8,9 +8,11 @@ git branch <my new branch name>
 git reset --hard <sha of the commit>^
 ```
 
-**NOTE**: Make sure to put the `^` to the end of the sha.
+**NOTE: Make sure to put the `^` to the end of the sha.**
 
-You need to force the update on the `origin` though
+------
+
+You also need to force the update on the `origin` too.
 
 ```shell
 git push origin -f
