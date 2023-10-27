@@ -142,7 +142,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 <details open>
   <summary>Snippets</summary>
 
-- [Logging](general/logging.md)
+- [Logging](general/logging.md) and as a [blog post](https://primalskill.blog/about-logging) expanded and more detailed
   
 </details>
 
