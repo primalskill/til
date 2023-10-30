@@ -43,6 +43,13 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 </td>
 
+
+<td>
+
+- [2023 Week 44](_stream/2023-w44.md)
+
+</td>
+
 </tr>
 </table>
 
