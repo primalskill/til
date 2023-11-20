@@ -298,6 +298,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Backup & Restore in CLI](postgresql/backup-restore.md)
 - [Count Performance](postgresql/count-performance.md)
 - [Enable Logging](postgresql/enable-logging.md)
+- [Escape Single Quotes](postgresql/escape-single-quote.md)
 - [Find the Owner of a Table](postgresql/find-owner-of-table.md)
   
 </details>
