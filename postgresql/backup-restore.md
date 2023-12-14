@@ -38,6 +38,12 @@ If admin privileges are needed:
 sudo -u postgres pg_restore --format=custom --dbname=my_database output.sql
 ```
 
+If admin privileges are needed but `sudo` is not available:
+
+```shell
+pg_restore -U postgres --format=custom --dbname=my_database output.sql
+```
+
 If importing into a database owned by another user, don't emit owner statements:
 
 ```shell
