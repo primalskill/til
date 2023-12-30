@@ -14,10 +14,6 @@ Organized alphabetically.
 
 Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for later. Organized by year and week.
 
-### Archives
-
-- [2023](_stream/2023/README.md)
-
 ### 2024
 
 <table border="0">
@@ -29,9 +25,12 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 </td>
 
-
 </tr>
 </table>
+
+### Archives
+
+- [2023](_stream/2023/README.md)
 
 ---
 
