@@ -10,64 +10,30 @@ Organized alphabetically.
 
 </div>
 
-
 ## _Stream
 
 Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for later. Organized by year and week.
+
+### Archives
+
+- [2023](_stream/2023/README.md)
+
+### 2024
 
 <table border="0">
 <tr>
   
 <td align="top">
   
-- [2023 Week 32](_stream/2023-w32.md)
-- [2023 Week 33](_stream/2023-w33.md)
-- [2023 Week 34](_stream/2023-w34.md)
-- [2023 Week 35](_stream/2023-w35.md)
-
-<td>
-
-- [2023 Week 36](_stream/2023-w36.md)
-- [2023 Week 37](_stream/2023-w37.md)
-- [2023 Week 38](_stream/2023-w38.md)
-- [2023 Week 39](_stream/2023-w39.md)
-  
-</td>  
-
-<td align="top">
-
-- [2023 Week 40](_stream/2023-w40.md)
-- [2023 Week 41](_stream/2023-w41.md)
-- [2023 Week 42](_stream/2023-w42.md)
-- [2023 Week 43](_stream/2023-w43.md)
+- [2024 Week 1](_stream/2024/w01.md)
 
 </td>
 
-
-<td>
-
-- [2023 Week 44](_stream/2023-w44.md)
-- [2023 Week 45](_stream/2023-w45.md)
-- [2023 Week 46](_stream/2023-w46.md)
-- [2023 Week 47](_stream/2023-w47.md)
-
-</td>
-
-<td>
-
-- [2023 Week 48](_stream/2023-w48.md)
-- [2023 Week 49](_stream/2023-w49.md)
-- [2023 Week 50](_stream/2023-w50.md)
-- [2023 Week 51](_stream/2023-w51.md)
-  
-</td>
 
 </tr>
 </table>
 
-
 ---
-
 
 <br />
 
@@ -114,7 +80,6 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Rebuild Compose Service Image](docker/rebuild-compose-service-image.md)
 - [View Running Containers](docker/view-running-containers.md)
 
-  
 </details>
 
 <br />
@@ -217,7 +182,6 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
   
 </details>
 
-
 <br />
 
 <img src="https://github.com/primalskill/til/assets/489775/9222c8ad-af15-49da-a220-7c366e0122da" alt="JavaScript Logo" width="64" height="64" align="left" />
@@ -243,7 +207,6 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Resolve All Promises Regardless of Status](javascript/resolve-all-promises.md)
   
 </details>
-
 
 <br />
 
@@ -314,7 +277,6 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
   
 </details>
 
-
 <br />
 <img src="https://github.com/primalskill/til/assets/489775/8a64da13-26c2-4091-8c25-a78ca0a71f38" alt="React Logo" width="64" height="64" align="left" />
 
@@ -353,7 +315,6 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 <br />
 <img src="https://github.com/primalskill/til/assets/489775/a9b8d7ba-1498-46ac-9299-a8686702db07" alt="Visual Studio Code Logo" width="64" height="64" align="left" />
 
-
 ## VSCode
 
 <br />
@@ -364,7 +325,6 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Shortcuts](vscode/shortcuts.md)
   
 </details>
-
 
 ---
 
