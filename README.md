@@ -156,6 +156,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Dave Cheney](https://dave.cheney.net/)
 - [Eli Bendersky's Blog](https://eli.thegreenplace.net/tag/go)
 - [Three Dots Labs](https://threedots.tech/)
+- [willem.dev](https://www.willem.dev/articles/)
   
 </details>
 
@@ -163,6 +164,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
   <summary>Resources</summary>
 
 - [Gotchas in Go](https://github.com/golang-leipzig/gotchas)
+- [Go Wiki](https://go.dev/wiki/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Free Course
 - [Todd McLeod - Learn to Code](https://www.youtube.com/@toddmcleod-learn-to-code/videos) - YouTube
   
@@ -194,7 +196,8 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 - [You Don't Know JS Yet 2nd Edition](https://github.com/getify/You-Dont-Know-JS) - Milestone learning resource (free)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
-  
+- [No-Sweat™ Eslint and Prettier Setup](https://github.com/wesbos/eslint-config-wesbos)
+
 </details>
 
 <details open>
