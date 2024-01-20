@@ -24,6 +24,12 @@ Prints all info about the machine.
 uname -a
 ```
 
+### Linux Distribution
+
+```shell
+cat /etc/os-release
+```
+
 ---
 
 #### Refs
