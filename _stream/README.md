@@ -13,6 +13,7 @@ Organized by year and week number.
 - [2024 Week 1](2024/w01.md)
 - [2024 Week 2](2024/w02.md)
 - [2024 Week 3](2024/w03.md)
+- [2024 Week 4](2024/w04.md)
 
 </td>
 
