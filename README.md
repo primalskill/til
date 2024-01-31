@@ -113,6 +113,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Delete Merged Branches](git/delete-merged-branches.md)
 - [Hard Reset a Single File](git/hard-reset-single-file.md)
 - [Revert Last Commit Pushed on Wrong Branch](git/revert-last-commit.md)
+- [Revert To Commit ID on HEAD](git/revert-to-commit-head.md)
 - [Show Merged Branches](git/merged-branches.md)
   
 </details>
