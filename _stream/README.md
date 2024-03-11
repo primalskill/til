@@ -19,6 +19,7 @@ Organized by year and week number.
 - [2024 Week 7](2024/w07.md)
 - [2024 Week 8](2024/w08.md)
 - [2024 Week 9](2024/w09.md)
+- [2024 Week 10](2024/w10.md)
 
 </td>
 
