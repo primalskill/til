@@ -37,6 +37,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 <td align="top">
   
 - [2024 Week 11](_stream/2024/w11.md)
+- [2024 Week 12](_stream/2024/w12.md)
 
 </td>
 
