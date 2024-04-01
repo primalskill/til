@@ -73,6 +73,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 - [Aspect Ratio](css/aspect-ratio.md)
 - [Clamp Values](css/clamp.md)
+- [:has() Selector](css/has-selector.md)
 - [HEX Colors With Opacity](css/hex-values-with-opacity.md)
 - [Flexbox Alignment Trick](css/flexbox-alignment-trick.md)
 - [RGB Values as CSS Variables](css/rgb-css-var.md)
