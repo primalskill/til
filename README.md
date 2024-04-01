@@ -195,6 +195,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 - [Context as First Argument in Functions](go/ctx-first.md)
 - [Compile for a Target OS and architecture](go/compile-specific-arch.md)
+- [Dependency Injection](go/dependency-injection.md)
 - [Database NULL Value Types](go/database-null-value-types.md)
 - [Errors as the Last Variable Returned](go/err-last.md)
 - [Generate Random Numbers](go/random-number-generator.md)
