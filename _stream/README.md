@@ -25,6 +25,7 @@ Organized by year and week number.
 - [2024 Week 13](2024/w13.md)
 - [2024 Week 14](2024/w14.md)
 - [2024 Week 15](2024/w15.md)
+- [2024 Week 16](2024/w16.md)
 
 </td>
 
