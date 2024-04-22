@@ -2,6 +2,8 @@
 
 Tips and best practices on logging.
 
+Also, a more detailed blog post can be found here: https://primalskill.blog/about-logging
+
 ---
 
 ## DOs and DON'Ts
