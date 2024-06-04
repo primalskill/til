@@ -49,6 +49,12 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 </td>
 
+<td align="top">
+  
+- [2024 Week 22](_stream/2024/w22.md)
+
+</td>
+
 
 </tr>
 </table>
