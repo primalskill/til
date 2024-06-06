@@ -263,6 +263,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Journalctl Show One Unit](linux/journalctl-one-unit.md)
 - [Lookup DNS](linux/lookup-dns.md)
 - [Lookup Server IP](linux/lookup-server-ip.md)
+- [Output Current Shell](linux/output-current-shell.md)
 - [Permissions Explained](linux/permissions.md)
 - [Replace String in a File](linux/replace-string-in-file.md)
 - [Secure Copy Files](linux/secure-copy.md)
