@@ -92,6 +92,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [RGB Values as CSS Variables](css/rgb-css-var.md)
 - [Scroll Snap to Elements](css/scroll-snap.md)
 - [System Fonts](css/system-fonts.md)
+- [Transition with display none](css/transition-display-none.md)
   
 </details>
 
