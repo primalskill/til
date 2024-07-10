@@ -366,6 +366,15 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 <details open>
   <summary>Resources</summary>
 
+- [Best Vim tips](https://vim.fandom.com/wiki/Best_Vim_Tips)
+- [Boost your coding fu with VSCode and Vim](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/introduction/)
+- [Learn Vim the Smart Way](https://learnvim.irian.to/)
+- [Vim Cheat Sheet](https://vim.rtorr.com/)
+- [Vim Cheat Sheet Devhints](https://devhints.io/vim)
+- [Vim Essentials Cheatseet & Guide](https://www.josean.com/posts/vim-essentials-cheatsheet)
+- [Vim Galore](https://github.com/mhinz/vim-galore)
+- [Vim Guide for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
+
 </details>
 
 <br />
