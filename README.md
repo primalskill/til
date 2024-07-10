@@ -60,7 +60,6 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 </td>
 
-
 </tr>
 </table>
 
@@ -354,6 +353,18 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 - [Create Self-Signed Development Certificates](ssl/self-signed-certs.md)
   
+</details>
+
+<br />
+<img src="" alt="Vim Logo" width="64" height="64" align="left" />
+
+## Vim
+
+<br />
+
+<details open>
+  <summary>Resources</summary>
+
 </details>
 
 <br />
