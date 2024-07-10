@@ -2,8 +2,13 @@
 
 There's a difference between local and remote branches. See how to view both here: [Show merged branches](git/merged-branches.md).
 
-## ⚠ WARNING: These commands can destroy your Git repo and delete your files.
+---
 
+> [!WARNING]
+> **These commands can destroy your Git repo and delete your files.**
+
+---
+ 
 ### Delete local branches that are merged into `main`
 
 ```shell
