@@ -356,9 +356,10 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 </details>
 
 <br />
-<img src="" alt="Vim Logo" width="64" height="64" align="left" />
 
-## Vim
+<img src="https://github.com/primalskill/til/assets/489775/b1e3d1fd-cad2-4af9-ad16-c189f6599fc9" alt="Vim Logo" width="50" height="50" align="left" />
+
+## Vim / Neovim
 
 <br />
 
