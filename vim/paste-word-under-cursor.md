@@ -2,6 +2,10 @@
 
 `viwp` when the cursor is on a word.
 
+1. `v` - enter visual mode
+2. `iw` - select "in" word
+3. `p` - put or paste copied contents
+
 ---
 
 This is useful to replace a word with the copied contents.
