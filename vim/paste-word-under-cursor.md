@@ -15,7 +15,7 @@ This is useful to replace a word with the copied contents.
 ```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         ^
-        |--- press ciw to copy the word ipsum
+        |--- press yiw to yank/copy the word ipsum
 ```
 
 2. Paste the word
