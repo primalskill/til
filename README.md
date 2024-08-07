@@ -375,6 +375,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Learn Vim the Smart Way](https://learnvim.irian.to/)
 - [Neovim for Newbs Course](https://learn.typecraft.dev/neovim-for-newbs/)
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
+- [Vim Cheat Sheet - Cheatsheets.zip](https://cheatsheets.zip/vim)
 - [Vim Cheat Sheet Devhints](https://devhints.io/vim)
 - [Vim Essentials Cheatseet & Guide](https://www.josean.com/posts/vim-essentials-cheatsheet)
 - [Vim Galore](https://github.com/mhinz/vim-galore)
