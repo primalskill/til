@@ -92,6 +92,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
   <summary>Snippets</summary>
 
 - [Aspect Ratio](css/aspect-ratio.md)
+- [Balanced Text](css/text-wrap-balance.md)
 - [Clamp Values](css/clamp.md)
 - [:has() Selector](css/has-selector.md)
 - [HEX Colors With Opacity](css/hex-values-with-opacity.md)
