@@ -91,6 +91,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 <details open>
   <summary>Snippets</summary>
 
+- [Accent Color - Style Form Controls](css/accent-color.md)
 - [Aspect Ratio](css/aspect-ratio.md)
 - [Balanced Text](css/text-wrap-balance.md)
 - [Clamp Values](css/clamp.md)
