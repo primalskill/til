@@ -389,6 +389,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 <details open>
   <summary>Snippets</summary>
 
+- [Go to definition](vim/go-to-definition.md)
 - [Replace word under cursor with copied contents](vim/paste-word-under-cursor.md)
 - [Select blocks of code](vim/selecting-blocks-of-code.md)
 
