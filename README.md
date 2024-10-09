@@ -424,6 +424,28 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
   
 </details>
 
+<br />
+<img src="https://github.com/user-attachments/assets/b4818294-9c96-4734-9284-b5a5d9623b3c" alt="Zig Lang" width="56" height="auto" align="left" />
+
+
+## Zig
+
+<br />
+
+<details open>
+  <summary>Resources</summary>
+
+- [A half-hour to learn Zig](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
+- [Awesome Zig](https://github.com/C-BJ/awesome-zig)
+- [Learn X in Y Minutes Where X=Zig](https://learnxinyminutes.com/docs/zig/)
+- [Learning Zig](https://www.openmymind.net/learning_zig/)
+- [Zig Community Resources](https://github.com/ziglang/zig/wiki/Community#streams)
+- [Zig Guide](https://zig.guide/)
+- [Ziglings](https://codeberg.org/ziglings/exercises)
+
+  
+</details>
+
 ---
 
 <div align="right">
