@@ -74,6 +74,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [2024 Week 38](_stream/2024/w38.md)
 - [2024 Week 39](_stream/2024/w39.md)
 - [2024 Week 40](_stream/2024/w40.md)
+- [2024 Week 41](_stream/2024/w41.md)
 
 </td>
 
