@@ -49,6 +49,7 @@ Organized by year and week number.
 - [2024 Week 39](2024/w39.md)
 - [2024 Week 40](2024/w40.md)
 - [2024 Week 41](2024/w41.md)
+- [2024 Week 42](2024/w42.md)
 
 
 </td>
