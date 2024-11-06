@@ -80,6 +80,12 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 </td>
 
+<td align="top">
+
+- [2024 Week 44](_stream/2024/w44.md)
+
+</td>
+
 </tr>
 </table>
 
