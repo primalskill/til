@@ -291,6 +291,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
   <summary>Snippets</summary>
 
 - [Available Disk Space](linux/avail-disk-space.md)
+- [Available Size of Directories](linux/avail-space-in-directory.md)
 - [Check Systemd Services Statuses](linux/systemctl-status.md)
 - [Copy environment when switching user](linux/copy-environment-when-switching-user.md)
 - [Directory Structure](linux/directory-structure.md)
