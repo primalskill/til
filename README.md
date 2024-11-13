@@ -296,6 +296,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Copy environment when switching user](linux/copy-environment-when-switching-user.md)
 - [Directory Structure](linux/directory-structure.md)
 - [Edit Systemd Units](linux/edit-systemd-units.md)
+- [First or Last X Lines From File](linux/first-last-x-lines.md)
 - [Journalctl Show One Unit](linux/journalctl-one-unit.md)
 - [Lookup DNS](linux/lookup-dns.md)
 - [Lookup Server IP](linux/lookup-server-ip.md)
