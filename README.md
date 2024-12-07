@@ -340,6 +340,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 
 - [Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
 - [Database Indexing Strategies Part 1](https://blog.bytebytego.com/p/database-indexing-strategies) and [Part 2](https://blog.bytebytego.com/p/database-indexing-strategies-part)
+- [Postgres for Everything](https://github.com/Olshansk/postgres_for_everything)
 - [Vectors Are The New JSON in PostgreSQL](https://jkatz05.com/post/postgres/vectors-json-postgresql/)
   
 </details>
