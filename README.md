@@ -131,6 +131,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Scroll Snap to Elements](css/scroll-snap.md)
 - [System Fonts](css/system-fonts.md)
 - [Transition with display none](css/transition-display-none.md)
+- [Unset Default Styles](css/unset-default-styles.md)
   
 </details>
 
