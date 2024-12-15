@@ -123,6 +123,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Aspect Ratio](css/aspect-ratio.md)
 - [Balanced Text](css/text-wrap-balance.md)
 - [Clamp Values](css/clamp.md)
+- [Disable Click Events](css/disable-element-clicks.md)
 - [:has() Selector](css/has-selector.md)
 - [HEX Colors With Opacity](css/hex-values-with-opacity.md)
 - [Flexbox Alignment Trick](css/flexbox-alignment-trick.md)
