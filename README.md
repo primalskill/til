@@ -266,6 +266,7 @@ Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for l
 - [Database Indexing Strategies Part 1](https://blog.bytebytego.com/p/database-indexing-strategies) and [Part 2](https://blog.bytebytego.com/p/database-indexing-strategies-part)
 - [Postgres for Everything](https://github.com/Olshansk/postgres_for_everything)
 - [Vectors Are The New JSON in PostgreSQL](https://jkatz05.com/post/postgres/vectors-json-postgresql/)
+- [PostgreSQL Power User Cheatsheet](https://cheatsheets.davidveksler.com/postgresql.html)
   
 </details>
 
