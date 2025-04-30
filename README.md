@@ -10,15 +10,6 @@ Organized alphabetically.
 
 </div>
 
-## _Stream
-
-Misc. tutorials, blog posts, YouTube videos, etc. worth reading and saving for later. Organized by year and week.
-
-### Archives
-
-- [2024](_stream/2024/README.md)
-- [2023](_stream/2023/README.md)
-
 ---
 
 <br />
