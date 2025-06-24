@@ -150,6 +150,7 @@ Organized alphabetically.
 <details open>
   <summary>Resources</summary>
 
+- [100 Go Mistakes and How to Avoid Them](https://100go.co/)
 - [Gotchas in Go](https://github.com/golang-leipzig/gotchas)
 - [Go Wiki](https://go.dev/wiki/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Free Course
