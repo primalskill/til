@@ -42,6 +42,22 @@ Author: John Ousterhout
 
 <tr>
 <td>
+<img src="https://github.com/user-attachments/assets/c14a12d9-9cfe-481e-86e2-adbed1f13e00" width="300" align="center" />      
+</td>
+<td valign="top">
+  
+### Code Complete: A Practical Handbook of Software Construction, 2nd Edition
+
+Author: Steve McConnell
+
+[Amazon](https://www.amazon.com/gp/product/0735619670) | [Goodreads](https://www.goodreads.com/book/show/4845.Code_Complete)
+
+</td>
+</tr>
+
+
+<tr>
+<td>
 <img src="https://github.com/primalskill/til/assets/489775/1b463963-8bf0-49d8-b325-db96cc1250bb" width="300" align="center" />      
 </td>
 <td valign="top">
