@@ -70,6 +70,20 @@ Author: Donald Knuth
 
 <tr>
 <td>
+<img src="https://github.com/user-attachments/assets/f9bbf012-fcbf-40d0-a99f-c1f4f65f54c5" width="300" align="center" />        
+</td>
+<td valign="top">
+  
+### The Mythical Man-Month: Essays on Software Engineering
+
+Author: Frederick P. Brooks Jr.
+
+[Amazon](https://www.amazon.com/gp/product/0201835959) | [Goodreads](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
+</td>
+</tr>
+
+<tr>
+<td>
 <img src="https://github.com/primalskill/til/assets/489775/50376937-f624-4910-90db-6312fbd71364" width="300" align="center" />    
 </td>
 <td valign="top">
