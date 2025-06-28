@@ -334,6 +334,16 @@ Organized alphabetically.
 </details>
 
 <details open>
+  <summary>Video Resources</summary>
+
+- [Adib Hanna - YouTube](https://www.youtube.com/@adibhanna)
+- [Andrew Courter - YouTube](https://www.youtube.com/@ascourter)
+- [Ben Frain - YouTube](https://www.youtube.com/@benfrainuk)
+- [Marco Peluso - YouTube](https://www.youtube.com/@marco_peluso)
+
+</details>
+
+<details open>
   <summary>Snippets</summary>
 
 - [Go to definition](vim/go-to-definition.md)
