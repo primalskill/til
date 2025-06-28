@@ -84,6 +84,21 @@ Author: Frederick P. Brooks Jr.
 
 <tr>
 <td>
+<img src="https://github.com/user-attachments/assets/7c313bea-bf9c-41d9-8e5e-54e3a8660403" width="300" align="center" />        
+</td>
+<td valign="top">
+  
+### The Pragmatic Programmer: Your Journey to Mastery
+
+Author: Andrew Hunt, David Thomas
+
+[Amazon](https://www.amazon.com/gp/product/B003GCTQAE) | [Goodreads](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+</td>
+</tr>
+
+
+<tr>
+<td>
 <img src="https://github.com/primalskill/til/assets/489775/50376937-f624-4910-90db-6312fbd71364" width="300" align="center" />    
 </td>
 <td valign="top">
