@@ -21,6 +21,28 @@ if s.Valid {
 }
 ```
 
+
+### Update (2025)
+
+Just to clarify, `database/sql` `NullXXX` functions are essentially pointers. You can simplify the above code like so:
+
+```golang
+
+var s *string
+
+err := db.QueryRow("SELECT name FROM foo WHERE id=?", id).Scan(&s)
+
+...
+
+if s != nil {
+  // use s value
+} else {
+  // NULL value
+}
+
+```
+
+
 ---
 
 **Refs**
