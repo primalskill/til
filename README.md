@@ -339,6 +339,7 @@ Organized alphabetically.
 - [Adib Hanna - YouTube](https://www.youtube.com/@adibhanna)
 - [Andrew Courter - YouTube](https://www.youtube.com/@ascourter)
 - [Ben Frain - YouTube](https://www.youtube.com/@benfrainuk)
+- [Linkarzu - YouTube](https://www.youtube.com/@linkarzu)
 - [Marco Peluso - YouTube](https://www.youtube.com/@marco_peluso)
 
 </details>
