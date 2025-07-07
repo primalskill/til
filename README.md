@@ -209,6 +209,13 @@ Organized alphabetically.
 <br />
 
 <details open>
+  <summary>Books</summary>
+
+- [A pragmatic guide to systemd for Linux sysadmins](https://opensource.com/downloads/pragmatic-guide-systemd-linux) by David Both
+
+</details>
+
+<details open>
   <summary>Snippets</summary>
 
 - [Analyze System Boot Up Performance](linux/systemd-analyze.md)
