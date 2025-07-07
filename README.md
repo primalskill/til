@@ -211,6 +211,7 @@ Organized alphabetically.
 <details open>
   <summary>Snippets</summary>
 
+- [Analyze System Boot Up Performance](linux/systemd-analyze.md)
 - [Available Disk Space](linux/avail-disk-space.md)
 - [Available Size of Directories](linux/avail-space-in-directory.md)
 - [Check Systemd Services Statuses](linux/systemctl-status.md)
