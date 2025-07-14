@@ -70,4 +70,4 @@ func (p Service) Hello(str string) string {
 
 - https://en.wikipedia.org/wiki/Structural_type_system
 - https://en.wikipedia.org/wiki/Duck_typing
-- Working example: https://go.dev/play/p/OvTdfmwwXlt
+- Working example: https://go.dev/play/p/BRcUrJWZb8u
