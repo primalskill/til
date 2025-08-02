@@ -151,6 +151,7 @@ Organized alphabetically.
   <summary>Resources</summary>
 
 - [100 Go Mistakes and How to Avoid Them](https://100go.co/)
+- [Concurrency Rocks](https://www.concurrency.rocks/)
 - [Go Cookbook](https://go-cookbook.com/)
 - [Gotchas in Go](https://github.com/golang-leipzig/gotchas)
 - [Go Wiki](https://go.dev/wiki/)
