@@ -140,10 +140,8 @@ Organized alphabetically.
 - [Ardan Labs Blog](https://www.ardanlabs.com/blog/)
 - [Bitfield Consulting Blog](https://bitfieldconsulting.com/golang)
 - [Boldly Go](https://boldlygo.tech/media/)
-- [Dave Cheney](https://dave.cheney.net/)
 - [Eli Bendersky's Blog](https://eli.thegreenplace.net/tag/go)
 - [Three Dots Labs](https://threedots.tech/)
-- [willem.dev](https://www.willem.dev/articles/)
   
 </details>
 
