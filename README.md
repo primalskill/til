@@ -264,7 +264,7 @@ Organized alphabetically.
   <summary>Snippets</summary>
 
 - [Replace String in a File](macos/replace-string-file.md)
-- [Screenshot Configurations](macos/screnshot.md)
+- [Screenshot Configurations](macos/screenshot.md)
 - [Show Hidden Dot Files and Directories](macos/show-hidden-dotfiles.md)
 
 </details>
