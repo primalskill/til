@@ -70,7 +70,7 @@ Organized alphabetically.
 
 <img src="./_assets/elixir.png" alt="Elixir Logo" width="64" height="64" align="left" />
 
-## Docker
+## Elixir
 
 <br />
 
