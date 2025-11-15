@@ -25,7 +25,7 @@ Organized alphabetically.
 
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [A more modern CSS reset](https://andy-bell.co.uk/a-more-modern-css-reset/?ck_subscriber_id=2125261242)
-  
+
 </details>
 
 <details open>
@@ -45,12 +45,12 @@ Organized alphabetically.
 - [System Fonts](css/system-fonts.md)
 - [Transition with display none](css/transition-display-none.md)
 - [Unset Default Styles](css/unset-default-styles.md)
-  
+
 </details>
 
 <br />
 
-<img src="https://github.com/primalskill/til/assets/489775/c345b542-9cb8-40e4-bc7c-553155a266a8" alt="Flutter Logo" width="64" height="64" align="left" />
+<img src="./_assets/docker.png" alt="Docker Logo" width="64" height="64" align="left" />
 
 ## Docker
 
@@ -68,7 +68,7 @@ Organized alphabetically.
 
 <br />
 
-<img src="https://github.com/primalskill/til/assets/489775/b81705a2-bc2b-4421-8685-a38818eb6402" alt="Flutter Logo" width="64" height="64" align="left" />
+<img src="./_assets/flutter.png" alt="Flutter Logo" width="64" height="64" align="left" />
 
 ## Flutter
 
@@ -78,12 +78,12 @@ Organized alphabetically.
   <summary>Resources</summary>
 
 - [Flutter Roadmap](https://github.com/olexale/flutter_roadmap) - GitHub repo
-  
+
 </details>
 
 <br />
 
-<img src="https://github.com/primalskill/til/assets/489775/730b3d89-7115-4409-899c-edc38c50497d" alt="Git Logo" width="64" height="64" align="left" />
+<img src="./_assets/git.png" alt="Git Logo" width="64" height="64" align="left" />
 
 ## Git
 
@@ -98,12 +98,12 @@ Organized alphabetically.
 - [Revert Last Commit Pushed on Wrong Branch](git/revert-last-commit.md)
 - [Revert To Commit ID on HEAD](git/revert-to-commit-head.md)
 - [Show Merged Branches](git/merged-branches.md)
-  
+
 </details>
 
 <br />
 
-<img src="https://github.com/primalskill/til/assets/489775/1a5c3992-a9f6-4cc1-ac0d-49e0e45bafdd" alt="General Logo" width="64" height="64" align="left" />
+<img src="./_assets/general.png" alt="General Logo" width="64" height="64" align="left" />
 
 ## General
 
@@ -112,13 +112,14 @@ Organized alphabetically.
 <details open>
   <summary>Snippets</summary>
 
+- [Create Self-Signed Development Certificates](general/self-signed-certs.md)
 - [Logging](general/logging.md) and as a [blog post](https://primalskill.blog/about-logging) expanded and more detailed
-  
+
 </details>
 
 <br />
 
-<img src="https://github.com/primalskill/til/assets/489775/644172fa-7e02-4eac-96f5-066e23c75561" alt="Go Logo" width="64" height="64" align="left" />
+<img src="./_assets/go.png" alt="Go Logo" width="64" height="64" align="left" />
 
 ## Go
 
@@ -130,7 +131,7 @@ Organized alphabetically.
 - [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) by Katherine Cox-Buday
 - [Go with the Domain](https://threedots.tech/go-with-the-domain/) by Robert Laszczak & Miłosz Smółka
 - [Go 101](https://go101.org/)
-  
+
 </details>
 
 <details open>
@@ -142,7 +143,7 @@ Organized alphabetically.
 - [Boldly Go](https://boldlygo.tech/media/)
 - [Eli Bendersky's Blog](https://eli.thegreenplace.net/tag/go)
 - [Three Dots Labs](https://threedots.tech/)
-  
+
 </details>
 
 <details open>
@@ -155,7 +156,7 @@ Organized alphabetically.
 - [Go Wiki](https://go.dev/wiki/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Free Course
 - [Todd McLeod - Learn to Code](https://www.youtube.com/@toddmcleod-learn-to-code/videos) - YouTube
-  
+
 </details>
 
 <details open>
@@ -169,12 +170,12 @@ Organized alphabetically.
 - [Generate Random Numbers](go/random-number-generator.md)
 - [Generics](go/generics.md)
 - [Update packages](go/update-packages.md)
-  
+
 </details>
 
 <br />
 
-<img src="https://github.com/primalskill/til/assets/489775/9222c8ad-af15-49da-a220-7c366e0122da" alt="JavaScript Logo" width="64" height="64" align="left" />
+<img src="./_assets/js.png" alt="JavaScript Logo" width="64" height="64" align="left" />
 
 ## JavaScript
 
@@ -196,12 +197,12 @@ Organized alphabetically.
 - [Generate Random Strings Natively](javascript/random-strings.md)
 - [Generate UUIDs Natively](javascript/uuid.md)
 - [Resolve All Promises Regardless of Status](javascript/resolve-all-promises.md)
-  
+
 </details>
 
 <br />
 
-<img src="https://github.com/primalskill/til/assets/489775/fd1c6d5e-8edc-4c08-a962-52972d4e2281" alt="Linux Logo" width="64" height="64" align="left" />
+<img src="./_assets/linux.png" alt="Linux Logo" width="64" height="64" align="left" />
 
 ## Linux
 
@@ -234,11 +235,11 @@ Organized alphabetically.
 - [Secure Copy Files](linux/secure-copy.md)
 - [Symlinks](linux/symlink.md)
 - [System Info](linux/system-info.md)
-  
+
 </details>
 
 <br />
-<img src="https://github.com/primalskill/til/assets/489775/83576558-c604-49a7-ab64-64a77b2a8dbe" alt="macOS Logo" width="64" height="64" align="left" />
+<img src="./_assets/macos-finder.png" alt="macOS Logo" width="64" height="64" align="left" />
 
 ## macOS
 
@@ -250,11 +251,11 @@ Organized alphabetically.
 - [Replace String in a File](macos/replace-string-file.md)
 - [Screenshot Configurations](macos/screnshot.md)
 - [Show Hidden Dot Files and Directories](macos/show-hidden-dotfiles.md)
-  
+
 </details>
 
 <br />
-<img src="https://github.com/primalskill/til/assets/489775/88aea67f-3a9c-4ac9-89da-2eee30e40cf7" alt="PostgreSQL Logo" width="64" height="64" align="left" />
+<img src="./_assets/postgresql.png" alt="PostgreSQL Logo" width="64" height="64" align="left" />
 
 ## PostgreSQL
 
@@ -280,11 +281,11 @@ Organized alphabetically.
 - [Escape Single Quotes](postgresql/escape-single-quote.md)
 - [Find the Owner of a Table](postgresql/find-owner-of-table.md)
 - [Upgrade](postgresql/upgrade.md)
-  
+
 </details>
 
 <br />
-<img src="https://github.com/primalskill/til/assets/489775/8a64da13-26c2-4091-8c25-a78ca0a71f38" alt="React Logo" width="64" height="64" align="left" />
+<img src="./_assets/react.png" alt="React Logo" width="64" height="64" align="left" />
 
 ## React
 
@@ -294,33 +295,18 @@ Organized alphabetically.
   <summary>Resources</summary>
 
 - [Learn React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - YouTube playlist
-  
+
 </details>
 
 <details open>
   <summary>Snippets</summary>
 
 - [Setting a New Value with useState](react/use-state-setter.md)
-  
+
 </details>
 
 <br />
-<img src="https://github.com/primalskill/til/assets/489775/6eb2e5f4-bec5-425c-aa28-6f812ff5ad8a" alt="SSL Logo" width="64" height="64" align="left" />
-
-## SSL
-
-<br />
-
-<details open>
-  <summary>Snippets</summary>
-
-- [Create Self-Signed Development Certificates](ssl/self-signed-certs.md)
-  
-</details>
-
-<br />
-
-<img src="https://github.com/primalskill/til/assets/489775/b1e3d1fd-cad2-4af9-ad16-c189f6599fc9" alt="Vim Logo" width="50" height="50" align="left" />
+<img src="./_assets/vim.png" alt="Vim Logo" width="50" height="50" align="left" />
 
 ## Vim / Neovim
 
@@ -362,10 +348,8 @@ Organized alphabetically.
 
 </details>
 
-
-
 <br />
-<img src="https://github.com/primalskill/til/assets/489775/a9b8d7ba-1498-46ac-9299-a8686702db07" alt="Visual Studio Code Logo" width="64" height="64" align="left" />
+<img src="./_assets/vscode.png" alt="Visual Studio Code Logo" width="64" height="64" align="left" />
 
 ## VSCode
 
@@ -375,12 +359,11 @@ Organized alphabetically.
   <summary>Snippets</summary>
 
 - [Shortcuts](vscode/shortcuts.md)
-  
+
 </details>
 
 <br />
-<img src="https://github.com/user-attachments/assets/b4818294-9c96-4734-9284-b5a5d9623b3c" alt="Zig Lang" width="56" height="auto" align="left" />
-
+<img src="./_assets/zig.png" alt="Zig Logo" width="56" height="auto" align="left" />
 
 ## Zig
 
@@ -397,7 +380,6 @@ Organized alphabetically.
 - [Zig Guide](https://zig.guide/)
 - [Ziglings](https://codeberg.org/ziglings/exercises)
 
-  
 </details>
 
 ---
