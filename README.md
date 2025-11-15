@@ -68,6 +68,21 @@ Organized alphabetically.
 
 <br />
 
+<img src="./_assets/elixir.png" alt="Elixir Logo" width="64" height="64" align="left" />
+
+## Docker
+
+<br />
+
+<details open>
+  <summary>Resources</summary>
+
+- [Elixir Crash Course by Daniel Bergholz](https://www.youtube.com/playlist?list=PLbV6TI03ZWYVQEC_Txq_cV0Uy_s16b0d3) - YouTube playlist
+
+</details>
+
+<br />
+
 <img src="./_assets/flutter.png" alt="Flutter Logo" width="64" height="64" align="left" />
 
 ## Flutter
