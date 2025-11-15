@@ -14,7 +14,7 @@ Organized alphabetically.
 
 <br />
 
-<img src="https://github.com/primalskill/til/assets/489775/b72daeb6-da6d-4002-8afc-759acf7bd07f" alt="CSS3 Logo" width="64" height="64" align="left" />
+<img src="./_assets/css.png" alt="CSS3 Logo" width="64" height="64" align="left" />
 
 ## CSS
 
